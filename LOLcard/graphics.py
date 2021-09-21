@@ -14,6 +14,8 @@ font_error = ImageFont.truetype('LOLcard/fonts/NanumSquareB.ttf', 30)
 queue_type_text = {
     "RANKED_SOLO_5x5": "SOLO",
     "RANKED_FLEX_SR": "FLEX",
+    "RANKED_TFT": "TFT",
+    "RANKED_TFT_TURBO": "TFT-T",
 }
 
 
