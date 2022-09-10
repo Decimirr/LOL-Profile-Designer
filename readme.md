@@ -1,3 +1,9 @@
+### Deprecated!
+
+디스코드에서 권장하는 슬래시 커맨드를 사용하고 있지 않은 봇입니다. 언제 소리소문 없이 사용 불가능하게 될지 알 수 없습니다.
+
+-----
+
 ### 롤 명함 만드는 디스코드 봇 "프린터"
 
 ![card](https://user-images.githubusercontent.com/48879519/133747595-d5bc3e82-c58b-4ce5-91f1-1ed129f08abc.png)
